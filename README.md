@@ -15,3 +15,5 @@ builder.SetCenterPoint(45, 15).SetZoomLevel(16).ShowTraffic(true);
 builder.ShowMap();
 
 ```
+
+[Nuget package](https://nuget.org/packages/BingMapsHelpers.UriBuilder/) is also available.
